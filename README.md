@@ -15,7 +15,11 @@
 
 ## 🎥 Project Walkthrough
 
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SwtvZbk9NJw">
+    <img src="https://img.youtube.com/vi/SwtvZbk9NJw/maxresdefault.jpg" alt="Watch the walkthrough" width="80%">
+  </a>
+</p>
 
 ---
 
