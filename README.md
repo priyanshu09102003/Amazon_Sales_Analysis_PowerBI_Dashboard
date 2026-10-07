@@ -37,7 +37,7 @@ It starts with understanding the client's requirements, moves through **Explorat
 
 <!-- Add your final dashboard screenshot at assets/dashboard.png, or drag and drop the image here -->
 
-![Final Dashboard](final_result_page.jpg)
+![Final Dashboard](final result_page.jpg)
 
 *Final interactive dashboard: KPI cards, trend charts, category grid, Top 5 charts and slicers.*
 
@@ -224,7 +224,7 @@ Slicers (dropdowns) make the dashboard dynamic so users can slice every visual o
 **Priyanshu**
 
 [![GitHub](https://img.shields.io/badge/GitHub-priyanshu09102003-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu09102003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-paul-59221228a/)
 
 ---
 
