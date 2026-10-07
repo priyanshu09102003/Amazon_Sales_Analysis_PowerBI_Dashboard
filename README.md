@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="End-to-End Data Analysis using Power BI - Banner" width="100%">
+  <img src="assets/banner.png" alt="End-to-End Data Analysis using Power BI - Banner" width="100%">
 </p>
 
 # 📊 End-to-End Data Analysis using Power BI
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=SwtvZbk9NJw">
-    <img src="https://img.youtube.com/vi/SwtvZbk9NJw/maxresdefault.jpg" alt="Watch the walkthrough" width="80%">
+    <img src="assets/thumb_walkthrough.png" alt="Watch the walkthrough" width="80%">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ It starts with understanding the client's requirements, moves through **Explorat
 
 <!-- Add your final dashboard screenshot at assets/dashboard.png, or drag and drop the image here -->
 
-![Final Dashboard](result_page.jpg)
+![Final Dashboard](assets/result_page.jpg)
 
 *Final interactive dashboard: KPI cards, trend charts, category grid, Top 5 charts and slicers.*
 
